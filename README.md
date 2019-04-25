@@ -1,3 +1,6 @@
+# What is this
+I wanted to download all the boulder problems on www.moonboard.com and filter the problems based on which holds they used. I used this script to download all the data.
+
 # Instructions
 1. Login to www.moonboard.com
 2. Go to Problems > View (www.moonboard.com/Problems/Index)
